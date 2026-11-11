@@ -1,3 +1,5 @@
+# MINI PROYEK 4
+
 class Dompet:
     def __init__(self, pemilik, saldo=0):
         self.pemilik = pemilik
